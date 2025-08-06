@@ -9,37 +9,66 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate and curious Computer Science Engineering student at MIT Campus, Anna University.
+I’m a curious builder who believes in turning ideas into real-world tech.
 
-- 🎓 I’m a 3rd-year B.E. CSE student  
-- 💡 I love building real-world apps and hardware-software systems  
-- 📱 Currently diving deeper into **Java**, **Firebase**, and **Flutter**  
-- 🎯 In my free time, I enjoy movies, outdoor games, and exploring tech trends
+- 🎓 3rd Year B.E. Computer Science student @ MIT Campus, Anna University  
+- 📱 Built **Capital Share**, a finance Android app with 2K+ downloads  
+- 🛠️ I love working on systems that blend hardware + software (IoT, RFID, Android)  
+- 🚀 Currently learning **Flutter**, **Linux**, and **AI Agents**  
+- 🧠 I enjoy solving real problems more than just writing clean code  
+- 🎬 Outside of code: movies, outdoor games, and creative exploration
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 Notable Projects
+### 🚀 Featured Projects
 
-- 📱 **Capital Share** – An expense-sharing Android app (2K+ downloads) built with Java + Firebase  
-- 🚘 **Smart Parking System** – IoT + OpenCV + Android app, Hackathon winning project  
-- 🛒 **Smart Cart** – RFID + IoT + UPI billing integration  
-- 🌾 **AgriChain** – AI Agent + Blockchain for farmer produce marketplace (Agentic Hackathon)
+- 📱 **Capital Share** – A collaborative finance app with **2K+ downloads**  
+- 🚘 **Smart Parking System** – IoT + OpenCV based detection + Android booking  
+- 🛒 **Smart Cart** – Self-billing system using RFID, Firebase, UPI checkout  
+- 🌾 **AgriChain** – Blockchain + AI Agent based produce trading platform
 
 ---
 
@@ -54,10 +83,10 @@ I'm a passionate and curious Computer Science Engineering student at MIT Campus,
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/duraisingh-j-sept012005)
-- [GitHub](https://github.com/Duraisingh-J)
-- 📧 Email: duraisingh2005@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/duraisingh-j-sept012005)
+- 💻 [GitHub](https://github.com/Duraisingh-J)
+- 📩 duraisingh2005@gmail.com
 
 ---
 
-<p align="center"><i>“Code is only as useful as the problem it solves.”</i></p>
+<p align="center"><i>“Code is only as powerful as the impact it makes.”</i></p>
