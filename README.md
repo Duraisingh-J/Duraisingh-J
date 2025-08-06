@@ -1,59 +1,63 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Duraisingh-J&label=Profile%20views&color=0e75b6&style=flat" alt="Duraisingh-J" />
+</p>
 
-###
+<h1 align="center">Hey there 👋, I'm Duraisingh J</h1>
+<h3 align="center">CSE Student @ MIT - AU | Android & IoT Developer | Hackathon Finalist</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Duraisingh-J.Duraisingh-J&"  />
-</div>
+I'm a passionate and curious Computer Science Engineering student at MIT Campus, Anna University.
 
-###
+- 🎓 I’m a 3rd-year B.E. CSE student  
+- 💡 I love building real-world apps and hardware-software systems  
+- 📱 Currently diving deeper into **Java**, **Firebase**, and **Flutter**  
+- 🎯 In my free time, I enjoy movies, outdoor games, and exploring tech trends
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+### 🛠️ Languages & Tools
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-###
+---
 
-<br clear="both">
+### 🚀 Notable Projects
 
-<p align="left">I'm Duraisingh.<br><br>- 🔭 I’m working as B.E.  CSE student at MIT - AU.<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I am watching movies, playing the outdoor games.</p>
+- 📱 **Capital Share** – An expense-sharing Android app (2K+ downloads) built with Java + Firebase  
+- 🚘 **Smart Parking System** – IoT + OpenCV + Android app, Hackathon winning project  
+- 🛒 **Smart Cart** – RFID + IoT + UPI billing integration  
+- 🌾 **AgriChain** – AI Agent + Blockchain for farmer produce marketplace (Agentic Hackathon)
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Duraisingh-J&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duraisingh-J&layout=compact&theme=github_dark" height="150"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+---
 
-###
+### 📫 Connect with Me
 
-<h3 align="left">🔥   My Stats :</h3>
+- [LinkedIn](https://linkedin.com/in/duraisingh-j-sept012005)
+- [GitHub](https://github.com/Duraisingh-J)
+- 📧 Email: duraisingh2005@gmail.com
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Duraisingh-J&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="center"><i>“Code is only as useful as the problem it solves.”</i></p>
