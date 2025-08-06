@@ -65,7 +65,7 @@ I’m a curious builder who believes in turning ideas into real-world tech.
 
 ### 🚀 Featured Projects
 
-- 📱 **Capital Share** – A collaborative finance app with **2K+ downloads**  
+- 📱 **Capital Share** – A collaborative finance app with **500+ downloads**  
 - 🚘 **Smart Parking System** – IoT + OpenCV based detection + Android booking  
 - 🛒 **Smart Cart** – Self-billing system using RFID, Firebase, UPI checkout  
 - 🌾 **AgriChain** – Blockchain + AI Agent based produce trading platform
