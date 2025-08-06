@@ -12,7 +12,7 @@
 I’m a curious builder who believes in turning ideas into real-world tech.
 
 - 🎓 3rd Year B.E. Computer Science student @ MIT Campus, Anna University  
-- 📱 Built **Capital Share**, a finance Android app with 2K+ downloads  
+- 📱 Built **Capital Share**, a finance Android app with 500+ downloads  
 - 🛠️ I love working on systems that blend hardware + software (IoT, RFID, Android)  
 - 🚀 Currently learning **Flutter**, **Linux**, and **AI Agents**  
 - 🧠 I enjoy solving real problems more than just writing clean code  
